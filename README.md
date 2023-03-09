@@ -9,8 +9,9 @@ To use these Docker projects, you will need to have Docker installed on your mac
 
 Once you have Docker installed, you can clone this repository to your local machine using the following command:  
 
+```
 git clone https://github.com/codemonkey-sagar/Docker-Projects.git  
-
+```
 
 ## Project List
 
