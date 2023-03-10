@@ -5,7 +5,8 @@ This repository contains a collection of Docker projects for various application
 ## Getting Started  
 
 To use these Docker projects, you will need to have Docker installed on your machine.  
- You can download and install Docker from the official Docker website: https://www.docker.com/products/docker-desktop.  
+ You can download and install Docker from the official Docker website:   
+ https://www.docker.com/products/docker-desktop.  
 
 Once you have Docker installed, you can clone this repository to your local machine using the following command:  
 
