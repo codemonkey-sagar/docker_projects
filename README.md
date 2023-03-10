@@ -18,7 +18,8 @@ git clone https://github.com/codemonkey-sagar/Docker-Projects.git
 
 This repository contains the following Docker projects:
 
-- **[dockerfile-sample-1](https://github.com/codemonkey-sagar/Docker-Projects/tree/main/dockerfile-sample-1):** A Description of a docker file (Nginx Dockerfile is used).  
+- **[dockerfile-sample-1](https://github.com/codemonkey-sagar/Docker-Projects/tree/main/dockerfile-sample-1):** A Description of a docker file (Nginx Dockerfile is used).    
+- **[dockerfile-sample-2](https://github.com/codemonkey-sagar/Docker-Projects/tree/main/dockerfile-sample-2):** Extend/Change an existing image file
   
     
 
